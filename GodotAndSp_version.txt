@@ -1,0 +1,2 @@
+godotEditor 4.3
+spine 4.2.40
