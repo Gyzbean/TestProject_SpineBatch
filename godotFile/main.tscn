@@ -1,0 +1,24 @@
+[gd_scene load_steps=3 format=3 uid="uid://cymrrw06tlx20"]
+
+[ext_resource type="SpineSkeletonDataResource" uid="uid://ctak7vfs8a3nc" path="res://SpineRES/MaZuSpData.tres" id="1_svbwt"]
+[ext_resource type="Script" path="res://BatchLab.gd" id="2_vbx37"]
+
+[node name="Main" type="Node2D"]
+
+[node name="SpineSprite" type="SpineSprite" parent="."]
+skeleton_data_res = ExtResource("1_svbwt")
+preview_skin = "Default"
+preview_animation = "-- Empty --"
+preview_frame = false
+preview_time = 0.0
+position = Vector2(813, 551)
+scale = Vector2(0.830948, 0.830948)
+
+[node name="Label" type="Label" parent="."]
+offset_left = 83.0
+offset_top = 381.0
+offset_right = 161.0
+offset_bottom = 404.0
+scale = Vector2(2.43458, 2.43458)
+text = "DrawCall: "
+script = ExtResource("2_vbx37")

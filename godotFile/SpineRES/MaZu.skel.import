@@ -1,0 +1,14 @@
+[remap]
+
+importer="spine.skel"
+type="SpineSkeletonFileResource"
+uid="uid://dn5x052f0vlvw"
+path="res://.godot/imported/MaZu.skel-a8a2f393d5cacb9f41bb70a215d5df2c.spskel"
+
+[deps]
+
+source_file="res://SpineRES/MaZu.skel"
+dest_files=["res://.godot/imported/MaZu.skel-a8a2f393d5cacb9f41bb70a215d5df2c.spskel"]
+
+[params]
+

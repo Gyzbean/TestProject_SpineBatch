@@ -1,0 +1,15 @@
+[remap]
+
+importer="spine.atlas"
+type="SpineAtlasResource"
+uid="uid://cxetbayn6nn8"
+path="res://.godot/imported/MaZu.atlas-0ee6804b782966e963a2d10e1abf254a.spatlas"
+
+[deps]
+
+source_file="res://SpineRES/MaZu.atlas"
+dest_files=["res://.godot/imported/MaZu.atlas-0ee6804b782966e963a2d10e1abf254a.spatlas"]
+
+[params]
+
+normal_map_prefix="n"
